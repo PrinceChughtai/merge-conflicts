@@ -14,3 +14,4 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [resume-template](https://github.com/jglovier/resume-template). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
  well well this is schell try to bell wake up to intel far from pharell i missed a day thats hell phonecell shal be for me indeed i will see that we are as important as a bee yea she greec
+Lets go
